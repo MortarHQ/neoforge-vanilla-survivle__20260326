@@ -1,7 +1,7 @@
 {
   "name": "1.21.4-NeoForge",
   "author": "landminehq",
-  "version": "1.4",
+  "version": "1.5",
   "description": "",
   "fileApi": "https://takehost.landmine.online/mc/1.21.4-neoforge",
   "files": [
@@ -24,6 +24,10 @@
     {
       "path": "mods/jecharacters-1.21.4-neoforge-4.5.23.jar",
       "hash": "392e3386a8e7cf14271cf2f3ee238a4cfd246082"
+    },
+    {
+      "path": "mods/neoforge-21.4.156-1.21.4-freecam_by_jasonzli-1.2.0.jar",
+      "hash": "3b4aaea4f4af771b738e04c7a61e45060f56fe84"
     },
     {
       "path": "mods/sodium-neoforge-0.6.13+mc1.21.4.jar",

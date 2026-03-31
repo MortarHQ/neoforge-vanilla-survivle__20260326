@@ -1,10 +1,18 @@
 {
   "name": "1.21.4-NeoForge",
   "author": "landminehq",
-  "version": "1.5",
+  "version": "1.6",
   "description": "",
   "fileApi": "https://takehost.landmine.online/mc/1.21.4-neoforge",
   "files": [
+    {
+      "path": "mods/architectury-15.0.3-neoforge.jar",
+      "hash": "ab24fc1c199e328ec4d13fe496cb4b7f0263a9f2"
+    },
+    {
+      "path": "mods/cloth-config-17.0.144-neoforge.jar",
+      "hash": "af9a6e52015098fd3d97d996dafbb66bbe495691"
+    },
     {
       "path": "mods/coroutil-neoforge-1.21.4-1.3.8.jar",
       "hash": "339766b765b915c23d701a10a15dbd7fa0eb56f9"
@@ -28,6 +36,10 @@
     {
       "path": "mods/neoforge-21.4.156-1.21.4-freecam_by_jasonzli-1.2.0.jar",
       "hash": "3b4aaea4f4af771b738e04c7a61e45060f56fe84"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-18.0.808-neoforge.jar",
+      "hash": "6d3f99b0c69108e7293a6b7baef68dc11139d9e7"
     },
     {
       "path": "mods/sodium-neoforge-0.6.13+mc1.21.4.jar",

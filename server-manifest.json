@@ -1,7 +1,7 @@
 {
   "name": "1.21.4-NeoForge",
   "author": "landminehq",
-  "version": "1.6",
+  "version": "1.7",
   "description": "",
   "fileApi": "https://takehost.landmine.online/mc/1.21.4-neoforge",
   "files": [
@@ -20,6 +20,10 @@
     {
       "path": "mods/DistantHorizons-2.4.5-b-1.21.4-fabric-neoforge.jar",
       "hash": "f7c1418924fe90f9ff03ba708d74a9cf8bfb409d"
+    },
+    {
+      "path": "mods/DistantHorizons-3.0.3-b-1.21.4-fabric-neoforge.jar",
+      "hash": "ab5bcfb4fd9185e88ccccd60ae1f719b91dd43ca"
     },
     {
       "path": "mods/iris-neoforge-1.8.8+mc1.21.4.jar",
@@ -71,7 +75,7 @@
     },
     {
       "path": "servers.dat",
-      "hash": "1284b0cba0e072017b81a50b79ba15c50540c6dc"
+      "hash": "53dad94bfe9d743c18760fb79be9b2a5716b1b55"
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",

@@ -1,7 +1,7 @@
 {
   "name": "1.21.4-NeoForge",
   "author": "landminehq",
-  "version": "1.7",
+  "version": "1.8",
   "description": "",
   "fileApi": "https://takehost.landmine.online/mc/1.21.4-neoforge",
   "files": [
@@ -18,16 +18,16 @@
       "hash": "339766b765b915c23d701a10a15dbd7fa0eb56f9"
     },
     {
-      "path": "mods/DistantHorizons-2.4.5-b-1.21.4-fabric-neoforge.jar",
-      "hash": "f7c1418924fe90f9ff03ba708d74a9cf8bfb409d"
-    },
-    {
       "path": "mods/DistantHorizons-3.0.3-b-1.21.4-fabric-neoforge.jar",
       "hash": "ab5bcfb4fd9185e88ccccd60ae1f719b91dd43ca"
     },
     {
       "path": "mods/iris-neoforge-1.8.8+mc1.21.4.jar",
       "hash": "dad7229a302126503fb8651d7f101949c2c57184"
+    },
+    {
+      "path": "mods/Ixeris-4.2.0+1.21.8-neoforge.jar",
+      "hash": "a78b2c4e40de751acae87353c7b30437f980a2a7"
     },
     {
       "path": "mods/Jade-1.21.4-NeoForge-17.3.0.jar",
